@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+common_config.py
+macros/
+.DS_Store
+Thumbs.db
+desktop.ini
